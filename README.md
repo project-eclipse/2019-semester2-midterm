@@ -4,5 +4,5 @@
 </p>
 
 ## Directory Structure
-- [`math-handout`](https://github.com/project-eclipse/2019-semester2-midterm/tree/master/math-handout): 수학 프린트 풀이
+- [`math-handout`](https://github.com/project-eclipse/2019-semester2-midterm/tree/master/math-handout): 수학 프린트의 뇌피셜 풀이
 - *More coming soon!*
